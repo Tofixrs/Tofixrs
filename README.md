@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![Metrics](/github-metrics.svg)
 
-
+![Contibs](/metrics.plugin.isocalendar.fullyear.svg)
 <!--
 **Tofix26/Tofix26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
